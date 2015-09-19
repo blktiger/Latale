@@ -1,2 +1,2 @@
 # Latale
-game latale（彩虹岛）
+game latale
